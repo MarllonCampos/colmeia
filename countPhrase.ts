@@ -18,5 +18,5 @@ function countPhrase(phrase: string) {
   return response;
 }
 
-const book = 'o cachorro correu no parque';
+const book = 'este e o conteudo apenas com palavras minusculas e espacos';
 countPhrase(book);
